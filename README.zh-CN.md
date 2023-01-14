@@ -1,3 +1,8 @@
+> fork自 antfu的vitesse-lite，为了快速初始化一个脚手架，来开发自己前端应用，感谢开源，感谢antfu，以下是原文README
+
+
+----
+
 <p align='center'>
   <img src='https://user-images.githubusercontent.com/11247099/111864893-a457fd00-899e-11eb-9f05-f4b88987541d.png' alt='Vitesse - Opinionated Vite Starter Template' width='600'/>
 </p>
