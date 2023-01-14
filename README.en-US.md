@@ -1,3 +1,6 @@
+> fork from antfu's vitesse-lite, in order to quickly initialize a scaffold to develop their own front-end applications, thanks to open source, thanks to antfu, the following is the original README
+
+---
 <p align='center'>
   <img src='https://user-images.githubusercontent.com/11247099/111864893-a457fd00-899e-11eb-9f05-f4b88987541d.png' alt='Vitesse - Opinionated Vite Starter Template' width='600'/>
 </p>
