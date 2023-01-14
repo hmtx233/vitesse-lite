@@ -13,8 +13,7 @@
 <br>
 
 <p align='center'>
-<b>English</b> | <a href="https://github.com/hmtx233/vitesse-lite/blob/master/README.zh-CN.md">简体中文</a>
-<!-- Contributors: Thanks for geting interested, however we DON'T accept new transitions to the README, thanks. -->
+<b>English</b> | <a href="https://github.com/hmtx233/vitesse-lite/blob/master/README.md">简体中文</a>
 </p>
 
 ## Features
