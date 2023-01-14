@@ -18,7 +18,7 @@
 <br>
 
 <p align='center'>
-<a href="https://github.com/hmtx233/vitesse-lite/blob/master/README.md">English</a> | <b>简体中文</b>
+<b>简体中文 | </b> <a href="https://github.com/hmtx233/vitesse-lite/blob/master/README.en-US.md">English</a> 
 </p>
 
 <br>
